@@ -189,6 +189,8 @@ function highestPairRank(cards) {
   }
   return best;
 }
+void hasPair;
+void highestPairRank;
 
 //Make functions and variables available to tester. DO NOT MODIFY THIS.
 if(typeof module !== 'undefined' && module.exports){
