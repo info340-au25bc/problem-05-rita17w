@@ -176,7 +176,7 @@ function hasPair(cards) {
   }
   return false; 
 }
-
+void hasPair;
 
 function highestPairRank(cards) {
   const counts = {};
@@ -189,7 +189,7 @@ function highestPairRank(cards) {
   }
   return best;
 }
-void hasPair;
+
 void highestPairRank;
 
 //Make functions and variables available to tester. DO NOT MODIFY THIS.
