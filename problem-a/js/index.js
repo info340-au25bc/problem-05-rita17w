@@ -139,3 +139,5 @@ console.log(shapes[shapes.length -1].hypotenuse);
 //Chrome developer console?
 shapes[shapes.length -1].hypotenuse= 55;
 console.log(shapes);
+
+
